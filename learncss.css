@@ -1,0 +1,29 @@
+/*this is comment*/
+h1{
+	color: blue;
+}
+li{
+	color: rgb(219, 58, 26);
+}
+P{
+	color: yellow ;
+}
+h4{
+	color: rgba(63,4,4,.75)
+}
+body{
+	background: url(http://www.ultrahdfreewallpapers.com/uploads/large/nature/4k-nature-wallpaper-0055.jpg);
+}
+div{
+	background: blue;
+	border-color: orange;
+	border-width: thick;
+	border-style: dotted; 
+}
+p{
+	color: yellow;
+}
+span{
+	background: red;
+	color: black;
+}
