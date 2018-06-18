@@ -1,0 +1,35 @@
+h1{
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+}
+body{
+
+	background:url(http://comadre.co/wp-content/uploads/2018/03/reference-retro-colors-background-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-inside-retro-colors.jpg);
+	  background-repeat:no-repeat;
+
+   background-size:cover;
+}
+.art{
+	margin: auto; 
+}
+td{
+	height: 300px;
+	background-color: black;
+	width: 150px;
+}
+#one{
+
+background-color: #ED6A5A;
+}
+#two{
+	background-color: #F4F1BB;
+}
+#three{
+	background-color: #9BC1BC;
+}
+#four{
+	background-color: #5CA4A9;
+}
+#five{
+	background-color: #E6EBE0;
+}
